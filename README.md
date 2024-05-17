@@ -7,9 +7,8 @@
 - 📫 How to reach me Just messege me.
 
 
-[![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitikJaat)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitikJaat&show_icons=true&theme=radical)
 
 <!---
 RitikJaat/RitikJaat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
